@@ -53,7 +53,7 @@
             label = "LEFT_THUMB";
             #binding-cells = <0>;
             tapping-term-ms = <150>;
-            bindings = <&lt 2 SPACE>, <&kp SPACE>;
+            bindings = <&lt 3 SPACE>, <&kp SPACE>;
         };
     };
 
